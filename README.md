@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I´m a Full-Stack Software Engineer (Java/Angular) diving into Software Architecture & DevSecOps.
+I´m a Full-Stack Software Engineer (Java/Python/Node && Angular/React) diving into Software Architecture & DevSecOps.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoelly&theme=dark&showIcons=true)](https://github.com/anuraghazra/github-readme-stats)
 
